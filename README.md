@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajhriday
-- 👀 I’m interested in combat sprots and programming
+- 👀 I’m interested in combat sports and programming
 - 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on opensource
+- 💞️ I’m looking to collaborate on JOSYS and opensource
 - 📫 You can reach me on hriday.raj@josys.com
 
 <!---
